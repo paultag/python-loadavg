@@ -1,0 +1,5 @@
+#!/usr/bin/env python
+
+from loadavg import get_loadavg
+
+print get_loadavg()
